@@ -7,4 +7,4 @@ echo minecraft: BMXCoder1820
 sleep 5
 echo server starting...
 sleep 2
-bash start.sh
+bash pocketmine-mp-server/start.sh
